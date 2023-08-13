@@ -5,7 +5,7 @@ This gives 2 deployment options:
 - Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.
 
 ## Initial Setup:
-This repo currently contains the starter files.
+
 
 Clone repo and create a virtual environment
 Dont forget to create virtual environment
